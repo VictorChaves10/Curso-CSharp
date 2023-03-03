@@ -1,0 +1,16 @@
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\bin\Debug\net5.0\Ex01.exe
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\bin\Debug\net5.0\Ex01.deps.json
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\bin\Debug\net5.0\Ex01.runtimeconfig.json
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\bin\Debug\net5.0\Ex01.runtimeconfig.dev.json
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\bin\Debug\net5.0\Ex01.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\bin\Debug\net5.0\Ex01.pdb
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\obj\Debug\net5.0\Ex01.csproj.AssemblyReference.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\obj\Debug\net5.0\Ex01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\obj\Debug\net5.0\Ex01.AssemblyInfoInputs.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\obj\Debug\net5.0\Ex01.AssemblyInfo.cs
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\obj\Debug\net5.0\Ex01.csproj.CoreCompileInputs.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\obj\Debug\net5.0\Ex01.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\obj\Debug\net5.0\ref\Ex01.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\obj\Debug\net5.0\Ex01.pdb
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\obj\Debug\net5.0\Ex01.genruntimeconfig.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\While\Ex01\Ex01\obj\Debug\net5.0\refint\Ex01.dll

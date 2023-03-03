@@ -1,0 +1,16 @@
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\bin\Debug\net5.0\Ex04.exe
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\bin\Debug\net5.0\Ex04.deps.json
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\bin\Debug\net5.0\Ex04.runtimeconfig.json
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\bin\Debug\net5.0\Ex04.runtimeconfig.dev.json
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\bin\Debug\net5.0\Ex04.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\bin\Debug\net5.0\ref\Ex04.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\bin\Debug\net5.0\Ex04.pdb
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\obj\Debug\net5.0\Ex04.csproj.AssemblyReference.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\obj\Debug\net5.0\Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\obj\Debug\net5.0\Ex04.AssemblyInfoInputs.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\obj\Debug\net5.0\Ex04.AssemblyInfo.cs
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\obj\Debug\net5.0\Ex04.csproj.CoreCompileInputs.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\obj\Debug\net5.0\Ex04.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\obj\Debug\net5.0\ref\Ex04.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\obj\Debug\net5.0\Ex04.pdb
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Section 3\Exercicios\Ex04\Ex04\obj\Debug\net5.0\Ex04.genruntimeconfig.cache
