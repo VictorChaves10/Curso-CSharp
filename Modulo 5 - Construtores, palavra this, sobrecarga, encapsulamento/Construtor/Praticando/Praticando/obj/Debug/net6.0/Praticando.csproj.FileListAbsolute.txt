@@ -1,0 +1,15 @@
+C:\Users\dell 06\OneDrive\Documentos\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Construtor\Praticando\Praticando\bin\Debug\net6.0\Praticando.exe
+C:\Users\dell 06\OneDrive\Documentos\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Construtor\Praticando\Praticando\bin\Debug\net6.0\Praticando.deps.json
+C:\Users\dell 06\OneDrive\Documentos\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Construtor\Praticando\Praticando\bin\Debug\net6.0\Praticando.runtimeconfig.json
+C:\Users\dell 06\OneDrive\Documentos\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Construtor\Praticando\Praticando\bin\Debug\net6.0\Praticando.dll
+C:\Users\dell 06\OneDrive\Documentos\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Construtor\Praticando\Praticando\bin\Debug\net6.0\Praticando.pdb
+C:\Users\dell 06\OneDrive\Documentos\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Construtor\Praticando\Praticando\obj\Debug\net6.0\Praticando.csproj.AssemblyReference.cache
+C:\Users\dell 06\OneDrive\Documentos\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Construtor\Praticando\Praticando\obj\Debug\net6.0\Praticando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell 06\OneDrive\Documentos\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Construtor\Praticando\Praticando\obj\Debug\net6.0\Praticando.AssemblyInfoInputs.cache
+C:\Users\dell 06\OneDrive\Documentos\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Construtor\Praticando\Praticando\obj\Debug\net6.0\Praticando.AssemblyInfo.cs
+C:\Users\dell 06\OneDrive\Documentos\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Construtor\Praticando\Praticando\obj\Debug\net6.0\Praticando.csproj.CoreCompileInputs.cache
+C:\Users\dell 06\OneDrive\Documentos\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Construtor\Praticando\Praticando\obj\Debug\net6.0\Praticando.dll
+C:\Users\dell 06\OneDrive\Documentos\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Construtor\Praticando\Praticando\obj\Debug\net6.0\refint\Praticando.dll
+C:\Users\dell 06\OneDrive\Documentos\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Construtor\Praticando\Praticando\obj\Debug\net6.0\Praticando.pdb
+C:\Users\dell 06\OneDrive\Documentos\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Construtor\Praticando\Praticando\obj\Debug\net6.0\Praticando.genruntimeconfig.cache
+C:\Users\dell 06\OneDrive\Documentos\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Construtor\Praticando\Praticando\obj\Debug\net6.0\ref\Praticando.dll
