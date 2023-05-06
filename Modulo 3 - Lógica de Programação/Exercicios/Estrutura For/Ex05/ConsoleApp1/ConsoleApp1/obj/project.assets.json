@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\a867900\\OneDrive - Atos\\Documents\\Curso C#\\Section 3\\Exercicios\\Estrutura For\\Ex05\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\a867900\\OneDrive - Atos\\Documents\\Curso C#\\Curso-CSharp\\Modulo 3 - Lógica de Programação\\Exercicios\\Estrutura For\\Ex05\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\a867900\\OneDrive - Atos\\Documents\\Curso C#\\Section 3\\Exercicios\\Estrutura For\\Ex05\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\a867900\\OneDrive - Atos\\Documents\\Curso C#\\Curso-CSharp\\Modulo 3 - Lógica de Programação\\Exercicios\\Estrutura For\\Ex05\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\a867900\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\a867900\\OneDrive - Atos\\Documents\\Curso C#\\Section 3\\Exercicios\\Estrutura For\\Ex05\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\a867900\\OneDrive - Atos\\Documents\\Curso C#\\Curso-CSharp\\Modulo 3 - Lógica de Programação\\Exercicios\\Estrutura For\\Ex05\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -62,6 +62,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[5.0.17, 5.0.17]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[5.0.0, 5.0.0]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
