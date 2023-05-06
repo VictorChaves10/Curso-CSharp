@@ -1,0 +1,5 @@
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.AssemblyInfo.cs
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 5 - Construtores, palavra this, sobrecarga, encapsulamento\Encapsulamento\obj\Debug\net6.0\Encapsulamento.csproj.CoreCompileInputs.cache
