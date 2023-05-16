@@ -1,0 +1,15 @@
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioVetor\bin\Debug\net6.0\DesafioVetor.exe
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioVetor\bin\Debug\net6.0\DesafioVetor.deps.json
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioVetor\bin\Debug\net6.0\DesafioVetor.runtimeconfig.json
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioVetor\bin\Debug\net6.0\DesafioVetor.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioVetor\bin\Debug\net6.0\DesafioVetor.pdb
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioVetor\obj\Debug\net6.0\DesafioVetor.csproj.AssemblyReference.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioVetor\obj\Debug\net6.0\DesafioVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioVetor\obj\Debug\net6.0\DesafioVetor.AssemblyInfoInputs.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioVetor\obj\Debug\net6.0\DesafioVetor.AssemblyInfo.cs
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioVetor\obj\Debug\net6.0\DesafioVetor.csproj.CoreCompileInputs.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioVetor\obj\Debug\net6.0\DesafioVetor.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioVetor\obj\Debug\net6.0\refint\DesafioVetor.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioVetor\obj\Debug\net6.0\DesafioVetor.pdb
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioVetor\obj\Debug\net6.0\DesafioVetor.genruntimeconfig.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioVetor\obj\Debug\net6.0\ref\DesafioVetor.dll
