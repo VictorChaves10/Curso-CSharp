@@ -1,0 +1,15 @@
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioList\DesafioList\bin\Debug\net6.0\DesafioList.exe
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioList\DesafioList\bin\Debug\net6.0\DesafioList.deps.json
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioList\DesafioList\bin\Debug\net6.0\DesafioList.runtimeconfig.json
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioList\DesafioList\bin\Debug\net6.0\DesafioList.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioList\DesafioList\bin\Debug\net6.0\DesafioList.pdb
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioList\DesafioList\obj\Debug\net6.0\DesafioList.csproj.AssemblyReference.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioList\DesafioList\obj\Debug\net6.0\DesafioList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioList\DesafioList\obj\Debug\net6.0\DesafioList.AssemblyInfoInputs.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioList\DesafioList\obj\Debug\net6.0\DesafioList.AssemblyInfo.cs
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioList\DesafioList\obj\Debug\net6.0\DesafioList.csproj.CoreCompileInputs.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioList\DesafioList\obj\Debug\net6.0\DesafioList.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioList\DesafioList\obj\Debug\net6.0\refint\DesafioList.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioList\DesafioList\obj\Debug\net6.0\DesafioList.pdb
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioList\DesafioList\obj\Debug\net6.0\DesafioList.genruntimeconfig.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioList\DesafioList\obj\Debug\net6.0\ref\DesafioList.dll
