@@ -1,0 +1,15 @@
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\bin\Debug\net6.0\DesafioMatriz.exe
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\bin\Debug\net6.0\DesafioMatriz.deps.json
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\bin\Debug\net6.0\DesafioMatriz.runtimeconfig.json
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\bin\Debug\net6.0\DesafioMatriz.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\bin\Debug\net6.0\DesafioMatriz.pdb
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net6.0\DesafioMatriz.csproj.AssemblyReference.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net6.0\DesafioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net6.0\DesafioMatriz.AssemblyInfoInputs.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net6.0\DesafioMatriz.AssemblyInfo.cs
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net6.0\DesafioMatriz.csproj.CoreCompileInputs.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net6.0\DesafioMatriz.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net6.0\refint\DesafioMatriz.dll
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net6.0\DesafioMatriz.pdb
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net6.0\DesafioMatriz.genruntimeconfig.cache
+C:\Users\a867900\OneDrive - Atos\Documents\Curso C#\Curso-CSharp\Modulo 6 - Memoria-Arrays-Listas\DesafioMatriz\DesafioMatriz\obj\Debug\net6.0\ref\DesafioMatriz.dll
