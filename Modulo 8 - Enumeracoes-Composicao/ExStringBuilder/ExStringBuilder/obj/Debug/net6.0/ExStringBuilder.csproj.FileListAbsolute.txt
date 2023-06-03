@@ -1,0 +1,15 @@
+C:\Users\a867900\source\repos\ExStringBuilder\ExStringBuilder\bin\Debug\net6.0\ExStringBuilder.exe
+C:\Users\a867900\source\repos\ExStringBuilder\ExStringBuilder\bin\Debug\net6.0\ExStringBuilder.deps.json
+C:\Users\a867900\source\repos\ExStringBuilder\ExStringBuilder\bin\Debug\net6.0\ExStringBuilder.runtimeconfig.json
+C:\Users\a867900\source\repos\ExStringBuilder\ExStringBuilder\bin\Debug\net6.0\ExStringBuilder.dll
+C:\Users\a867900\source\repos\ExStringBuilder\ExStringBuilder\bin\Debug\net6.0\ExStringBuilder.pdb
+C:\Users\a867900\source\repos\ExStringBuilder\ExStringBuilder\obj\Debug\net6.0\ExStringBuilder.csproj.AssemblyReference.cache
+C:\Users\a867900\source\repos\ExStringBuilder\ExStringBuilder\obj\Debug\net6.0\ExStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a867900\source\repos\ExStringBuilder\ExStringBuilder\obj\Debug\net6.0\ExStringBuilder.AssemblyInfoInputs.cache
+C:\Users\a867900\source\repos\ExStringBuilder\ExStringBuilder\obj\Debug\net6.0\ExStringBuilder.AssemblyInfo.cs
+C:\Users\a867900\source\repos\ExStringBuilder\ExStringBuilder\obj\Debug\net6.0\ExStringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\a867900\source\repos\ExStringBuilder\ExStringBuilder\obj\Debug\net6.0\ExStringBuilder.dll
+C:\Users\a867900\source\repos\ExStringBuilder\ExStringBuilder\obj\Debug\net6.0\refint\ExStringBuilder.dll
+C:\Users\a867900\source\repos\ExStringBuilder\ExStringBuilder\obj\Debug\net6.0\ExStringBuilder.pdb
+C:\Users\a867900\source\repos\ExStringBuilder\ExStringBuilder\obj\Debug\net6.0\ExStringBuilder.genruntimeconfig.cache
+C:\Users\a867900\source\repos\ExStringBuilder\ExStringBuilder\obj\Debug\net6.0\ref\ExStringBuilder.dll
