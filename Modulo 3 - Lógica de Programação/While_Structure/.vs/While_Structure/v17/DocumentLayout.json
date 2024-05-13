@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\While_Structure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88CD6EB4-0831-4E5B-97F4-AA1598083D06}|Exercise02\\Exercise02.csproj|c:\\users\\a867900\\documents\\github\\curso-csharp\\modulo 3 - l\u00F3gica de programa\u00E7\u00E3o\\while_structure\\exercise02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CD6EB4-0831-4E5B-97F4-AA1598083D06}|Exercise02\\Exercise02.csproj|solutionrelative:exercise02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69F6452-3957-463E-A4A9-3DDBBD5612CE}|Exercise03\\Exercise03.csproj|c:\\users\\a867900\\documents\\github\\curso-csharp\\modulo 3 - l\u00F3gica de programa\u00E7\u00E3o\\while_structure\\exercise03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69F6452-3957-463E-A4A9-3DDBBD5612CE}|Exercise03\\Exercise03.csproj|solutionrelative:exercise03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E69F6452-3957-463E-A4A9-3DDBBD5612CE}|Exercise03\\Exercise03.csproj|c:\\users\\a867900\\documents\\github\\curso-csharp\\modulo 3 - l\u00F3gica de programa\u00E7\u00E3o\\while_structure\\exercise03\\exercise03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E69F6452-3957-463E-A4A9-3DDBBD5612CE}|Exercise03\\Exercise03.csproj|solutionrelative:exercise03\\exercise03.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88CD6EB4-0831-4E5B-97F4-AA1598083D06}|Exercise02\\Exercise02.csproj|c:\\users\\a867900\\documents\\github\\curso-csharp\\modulo 3 - l\u00F3gica de programa\u00E7\u00E3o\\while_structure\\exercise02\\exercise02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{88CD6EB4-0831-4E5B-97F4-AA1598083D06}|Exercise02\\Exercise02.csproj|solutionrelative:exercise02\\exercise02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura While\\Ex03\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\While_Structure\\Exercise02\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise02\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\While_Structure\\Exercise02\\Program.cs",
+              "RelativeToolTip": "Exercise02\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:28:47.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exercise03",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\While_Structure\\Exercise03\\Exercise03.csproj",
+              "RelativeDocumentMoniker": "Exercise03\\Exercise03.csproj",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\While_Structure\\Exercise03\\Exercise03.csproj",
+              "RelativeToolTip": "Exercise03\\Exercise03.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T17:21:47.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exercise02",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\While_Structure\\Exercise02\\Exercise02.csproj",
+              "RelativeDocumentMoniker": "Exercise02\\Exercise02.csproj",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\While_Structure\\Exercise02\\Exercise02.csproj",
+              "RelativeToolTip": "Exercise02\\Exercise02.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T17:21:45.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\While_Structure\\Exercise03\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise03\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\While_Structure\\Exercise03\\Program.cs",
+              "RelativeToolTip": "Exercise03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:21:40.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura While\\Ex03\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Estrutura While\\Ex03\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura While\\Ex03\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\Estrutura While\\Ex03\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:21:11.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
