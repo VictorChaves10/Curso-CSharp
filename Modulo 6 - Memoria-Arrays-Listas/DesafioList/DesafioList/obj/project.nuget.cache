@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "JkpUv5AOAt6iuBNmjSuHd+pCLoY6JoCKq8y1zdkDywV19TTdG7ZjP+sYw0Scru8jrCAtQ1aXTE+9Ry3SJaeCYw==",
+  "dgSpecHash": "ad/luhcAmugURxiSwWaaTe08YkXNjzlcKGDBsWLPCYIhLWj00/pDPqf7USbSbCbtFOLO4BUH4Pu6NZ6ObxOFkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\a867900\\OneDrive - Atos\\Documents\\Curso C#\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\DesafioList.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\DesafioList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a867900\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\a867900\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\a867900\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\a867900\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioVetor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53FA1557-D455-4322-BB80-5B2FD61B9042}|DesafioVetor.csproj|c:\\users\\a867900\\documents\\github\\curso-csharp\\modulo 6 - memoria-arrays-listas\\desafiovetor\\pensionato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FA1557-D455-4322-BB80-5B2FD61B9042}|DesafioVetor.csproj|solutionrelative:pensionato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FA1557-D455-4322-BB80-5B2FD61B9042}|DesafioVetor.csproj|c:\\users\\a867900\\documents\\github\\curso-csharp\\modulo 6 - memoria-arrays-listas\\desafiovetor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FA1557-D455-4322-BB80-5B2FD61B9042}|DesafioVetor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pensionato.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioVetor\\Pensionato.cs",
+              "RelativeDocumentMoniker": "Pensionato.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioVetor\\Pensionato.cs",
+              "RelativeToolTip": "Pensionato.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:18:13.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioVetor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioVetor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:18:13.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

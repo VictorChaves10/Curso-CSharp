@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{819F78C5-B964-47DE-8704-58283D511EF8}|DesafioList\\DesafioList.csproj|c:\\users\\a867900\\documents\\github\\curso-csharp\\modulo 6 - memoria-arrays-listas\\desafiolist\\desafiolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819F78C5-B964-47DE-8704-58283D511EF8}|DesafioList\\DesafioList.csproj|solutionrelative:desafiolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{819F78C5-B964-47DE-8704-58283D511EF8}|DesafioList\\DesafioList.csproj|c:\\users\\a867900\\documents\\github\\curso-csharp\\modulo 6 - memoria-arrays-listas\\desafiolist\\desafiolist\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{819F78C5-B964-47DE-8704-58283D511EF8}|DesafioList\\DesafioList.csproj|solutionrelative:desafiolist\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\Employee.cs",
+              "RelativeDocumentMoniker": "DesafioList\\Employee.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\Employee.cs",
+              "RelativeToolTip": "DesafioList\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:16:00.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\Program.cs",
+              "RelativeDocumentMoniker": "DesafioList\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\Program.cs",
+              "RelativeToolTip": "DesafioList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T17:16:00.123Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex07\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex07\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex06\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex06\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex05\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex05\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex04\\ConsoleApp2\\ConsoleApp2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex04\\ConsoleApp2\\ConsoleApp2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex03\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex03\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex02\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex02\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex01\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex01\\ConsoleApp1\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex08\\Ex08\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex08\\Ex08\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex07\\Ex07\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex07\\Ex07\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex06\\Ex06\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex06\\Ex06\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex05\\Ex05\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex05\\Ex05\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex03\\Ex03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex03\\Ex03\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex07\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex07\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex07\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex07\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:40:35.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex06\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex06\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex06\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex06\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:38:59.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex05\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex05\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex05\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex05\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:37:09.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex04\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex04\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex04\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "RelativeToolTip": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex04\\ConsoleApp2\\ConsoleApp2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:23:58.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex03\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex03\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex03\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex03\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:15:15.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex02\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex02\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex02\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex02\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:11:33.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex01\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex01\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex01\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura For\\Ex01\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:10:38.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex08\\Ex08\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex08\\Ex08\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex08\\Ex08\\Program.cs",
+              "RelativeToolTip": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex08\\Ex08\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:06:57.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex07\\Ex07\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex07\\Ex07\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex07\\Ex07\\Program.cs",
+              "RelativeToolTip": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex07\\Ex07\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:04:32.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex06\\Ex06\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex06\\Ex06\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex06\\Ex06\\Program.cs",
+              "RelativeToolTip": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex06\\Ex06\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:03:15.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex05\\Ex05\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex05\\Ex05\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex05\\Ex05\\Program.cs",
+              "RelativeToolTip": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex05\\Ex05\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:01:38.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex03\\Ex03\\Program.cs",
+              "RelativeDocumentMoniker": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex03\\Ex03\\Program.cs",
+              "ToolTip": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex03\\Ex03\\Program.cs",
+              "RelativeToolTip": "Modulo 3 - L\u00F3gica de Programa\u00E7\u00E3o\\Estrutura Condicional\\Ex03\\Ex03\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T15:22:40.649Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

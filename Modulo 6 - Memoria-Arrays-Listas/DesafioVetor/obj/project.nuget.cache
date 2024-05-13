@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CboTskZNUNM07P2HPoay+D02DitLb/A4Xil38GT1dC9MAJgAnCunKbw4nBkVjKcAmmKsHaii/frHEfQR3RvquQ==",
+  "dgSpecHash": "eiC67BSErT5sWVuz9L6oZV4XFaiE62bWs5jitvUbAoYDl/tEQkX2MvGvqii8TzGG+zVPPOZqs2gGrmYNo9ZL8w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\a867900\\OneDrive - Atos\\Documents\\Curso C#\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioVetor\\DesafioVetor.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioVetor\\DesafioVetor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a867900\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.29\\microsoft.windowsdesktop.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\a867900\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.29\\microsoft.netcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\a867900\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.29\\microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512",
+    "C:\\Users\\a867900\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.29\\microsoft.netcore.app.host.win-x64.6.0.29.nupkg.sha512"
+  ],
   "logs": []
 }

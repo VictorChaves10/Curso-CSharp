@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\a867900\\OneDrive - Atos\\Documents\\Curso C#\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\DesafioList.csproj": {}
+    "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\DesafioList.csproj": {}
   },
   "projects": {
-    "C:\\Users\\a867900\\OneDrive - Atos\\Documents\\Curso C#\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\DesafioList.csproj": {
+    "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\DesafioList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\a867900\\OneDrive - Atos\\Documents\\Curso C#\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\DesafioList.csproj",
+        "projectUniqueName": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\DesafioList.csproj",
         "projectName": "DesafioList",
-        "projectPath": "C:\\Users\\a867900\\OneDrive - Atos\\Documents\\Curso C#\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\DesafioList.csproj",
+        "projectPath": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\DesafioList.csproj",
         "packagesPath": "C:\\Users\\a867900\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\a867900\\OneDrive - Atos\\Documents\\Curso C#\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\obj\\",
+        "outputPath": "C:\\Users\\a867900\\Documents\\GitHub\\Curso-CSharp\\Modulo 6 - Memoria-Arrays-Listas\\DesafioList\\DesafioList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,12 +60,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.29, 6.0.29]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }

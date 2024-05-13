@@ -1,0 +1,15 @@
+C:\Users\a867900\Documents\GitHub\Curso-CSharp\Modulo 3 - Lógica de Programação\Exercise01\Exercise05\bin\Debug\net8.0\Exercise05.exe
+C:\Users\a867900\Documents\GitHub\Curso-CSharp\Modulo 3 - Lógica de Programação\Exercise01\Exercise05\bin\Debug\net8.0\Exercise05.deps.json
+C:\Users\a867900\Documents\GitHub\Curso-CSharp\Modulo 3 - Lógica de Programação\Exercise01\Exercise05\bin\Debug\net8.0\Exercise05.runtimeconfig.json
+C:\Users\a867900\Documents\GitHub\Curso-CSharp\Modulo 3 - Lógica de Programação\Exercise01\Exercise05\bin\Debug\net8.0\Exercise05.dll
+C:\Users\a867900\Documents\GitHub\Curso-CSharp\Modulo 3 - Lógica de Programação\Exercise01\Exercise05\bin\Debug\net8.0\Exercise05.pdb
+C:\Users\a867900\Documents\GitHub\Curso-CSharp\Modulo 3 - Lógica de Programação\Exercise01\Exercise05\obj\Debug\net8.0\Exercise05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a867900\Documents\GitHub\Curso-CSharp\Modulo 3 - Lógica de Programação\Exercise01\Exercise05\obj\Debug\net8.0\Exercise05.AssemblyInfoInputs.cache
+C:\Users\a867900\Documents\GitHub\Curso-CSharp\Modulo 3 - Lógica de Programação\Exercise01\Exercise05\obj\Debug\net8.0\Exercise05.AssemblyInfo.cs
+C:\Users\a867900\Documents\GitHub\Curso-CSharp\Modulo 3 - Lógica de Programação\Exercise01\Exercise05\obj\Debug\net8.0\Exercise05.csproj.CoreCompileInputs.cache
+C:\Users\a867900\Documents\GitHub\Curso-CSharp\Modulo 3 - Lógica de Programação\Exercise01\Exercise05\obj\Debug\net8.0\Exercise05.sourcelink.json
+C:\Users\a867900\Documents\GitHub\Curso-CSharp\Modulo 3 - Lógica de Programação\Exercise01\Exercise05\obj\Debug\net8.0\Exercise05.dll
+C:\Users\a867900\Documents\GitHub\Curso-CSharp\Modulo 3 - Lógica de Programação\Exercise01\Exercise05\obj\Debug\net8.0\refint\Exercise05.dll
+C:\Users\a867900\Documents\GitHub\Curso-CSharp\Modulo 3 - Lógica de Programação\Exercise01\Exercise05\obj\Debug\net8.0\Exercise05.pdb
+C:\Users\a867900\Documents\GitHub\Curso-CSharp\Modulo 3 - Lógica de Programação\Exercise01\Exercise05\obj\Debug\net8.0\Exercise05.genruntimeconfig.cache
+C:\Users\a867900\Documents\GitHub\Curso-CSharp\Modulo 3 - Lógica de Programação\Exercise01\Exercise05\obj\Debug\net8.0\ref\Exercise05.dll
